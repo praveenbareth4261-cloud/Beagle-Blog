@@ -25,6 +25,12 @@ a{
 .section2 h2{
      margin-bottom: 14px;
 }
+.section2 img{
+    width: 100%;
+  max-width: 500px;
+  height: auto;
+  margin-bottom: 12px;
+}
 .section3 h2{
     margin: 20px 0px;
 }
